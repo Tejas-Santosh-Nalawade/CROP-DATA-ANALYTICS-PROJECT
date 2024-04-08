@@ -284,7 +284,7 @@ def Coffee():
 # DISPLAYING PRIMARY CROPS OF INDIA
 
 def primary_crop():
-    df= pd.read_csv("D:\PBL PROJECT FIRST YEAR\IP PROJECT\primary_crop.csv")
+    df= pd.read_csv(Primary)
     df.plot(kind='barh',x='Crop',title='PRIMARY CROPS OF INDIA')
     plt.xlabel('Rate')
     plt.show()
