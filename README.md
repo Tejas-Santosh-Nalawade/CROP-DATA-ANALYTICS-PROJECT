@@ -1,2 +1,3 @@
 # CROP-DATA-ANALYTICS-PROJECT
 This project is a Data Analysis project using Python Library like Pandas,Numpy,Matplotlib and the topic is Crop Data Analysis for Farmers. In this project we will analyze the data of the crops that farmers cultivate throughout the year with the help of the Line Charts, Bar Charts and all different kinds of charts.This project will help the farmers to make data based decisions like which crop they should plant for their next harvest and which crop is grown at which area in abundant amount. This will help Farmers to identify which crop they should harvest throughout the year to earn more income. 
+![image](https://github.com/Tejas-Santosh-Nalawade/CROP-DATA-ANALYTICS-PROJECT/assets/89332752/1bb11855-a890-405d-b04a-3ad9941a39d9)
